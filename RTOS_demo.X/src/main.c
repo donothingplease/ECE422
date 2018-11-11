@@ -7,7 +7,6 @@
 #include "task.h"
 #include "../mcc_generated_files/system.h"
 #include "../mcc_generated_files/pin_manager.h"
-
 //RTOS tasks include
 #include "app.h"
 #include "taskBlinky.h"
