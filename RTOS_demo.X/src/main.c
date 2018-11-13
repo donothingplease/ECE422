@@ -18,10 +18,10 @@
 
  *****************************************************************************/
 /* Only one co-routine is created so the index is not significant. */
-#define crfFLASH_INDEX             (0)
-#define crf_HEART_BEAT_PRIORITY    (0)
-
-/* The number of flash co-routines to create. */
+//#define crfFLASH_INDEX             (0)
+//#define crf_HEART_BEAT_PRIORITY    (0)
+//
+///* The number of flash co-routines to create. */
 #define mainNUM_FLASH_COROUTINES   (1)
 
 /*****************************************************************************
