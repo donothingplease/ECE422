@@ -23,7 +23,6 @@
 /* The number of flash co-routines to create. */
 #define mainNUM_FLASH_COROUTINES   (1)
 
-
 /*****************************************************************************
 
     FreeRTOS Task implementation: Co-routine running heart beat
